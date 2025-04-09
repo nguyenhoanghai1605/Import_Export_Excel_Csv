@@ -1,0 +1,35 @@
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\Import_excel_csv.exe.config
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\Import_excel_csv.exe
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\Import_excel_csv.pdb
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\EPPlus.dll
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.dll
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\OfficeOpenXml.Extends.dll
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\EPPlus.xml
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.xml
+D:\Dev\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Dev\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.Form1.resources
+D:\Dev\Import_excel_csv\Import_excel_csv\obj\Debug\Import_excel_csv.Properties.Resources.resources
+D:\Dev\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.csproj.GenerateResource.cache
+D:\Dev\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.csproj.CoreCompileInputs.cache
+D:\Dev\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.csproj.CopyComplete
+D:\Dev\Import_excel_csv\Import_excel_csv\obj\Debug\Import_excel_csv.exe
+D:\Dev\Import_excel_csv\Import_excel_csv\obj\Debug\Import_excel_csv.pdb
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\Import_excel_csv.exe.config
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\Import_excel_csv.exe
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\Import_excel_csv.pdb
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\EPPlus.dll
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.DataSet.dll
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.dll
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\OfficeOpenXml.Extends.dll
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\EPPlus.xml
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.xml
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\bin\Debug\ExcelDataReader.DataSet.xml
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.csproj.AssemblyReference.cache
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.Form1.resources
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Import_excel_csv.Properties.Resources.resources
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.csproj.GenerateResource.cache
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.csproj.CoreCompileInputs.cache
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Tools_LayHinh.csproj.CopyComplete
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Import_excel_csv.exe
+D:\11. Dev Tools Lay Hinh\Import_excel_csv\Import_excel_csv\obj\Debug\Import_excel_csv.pdb
